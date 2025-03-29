@@ -109,7 +109,7 @@ button {
 
 .block-center-two {
     display: flex;
-    width: 950px;
+    width: 850px;
     height: 100%;
     align-items: center;
     flex-direction: column;
@@ -134,7 +134,7 @@ button {
 
 .blocks div {
     display: flex;
-    width: 200px;
+    width: 180px;
     height: 250px;
     flex-direction: column;
 }
@@ -150,8 +150,8 @@ button {
 
 .blocks img {
     border: 3px solid #3888F6;
-    border-radius: 5px;
-    width: 194px;
+    border-radius: 20px;
+    width: auto;
     height: 200px;
 }
 
@@ -166,8 +166,8 @@ button {
 
 .block-center-three {
     display: flex;
-    width: 950px;
-    height: 300px;
+    width: 850px;
+    height: auto;
     flex-direction: column;
     align-items: flex-end;
 }
